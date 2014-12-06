@@ -6,7 +6,7 @@ Working through Dive Into Python 3
 Chapter 1 ----------------------- Done
 Chapter 2 ----------------------- Done
 Chapter 3 ----------------------- Done
-Chapter 4 -----------------------
+Chapter 4 ----------------------- Done
 Chapter 5 -----------------------
 Chapter 6 -----------------------
 Chapter 7 -----------------------
